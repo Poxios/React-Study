@@ -1,6 +1,7 @@
 # 리액트 스터디
 
 ## 생활코딩
+![image](https://user-images.githubusercontent.com/62606632/102710908-36495e80-42f9-11eb-95c8-5fee29ea927a.png)
 
 ### 조원
 
