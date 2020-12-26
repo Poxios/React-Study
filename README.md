@@ -15,7 +15,7 @@
 - 하루에 7강씩?
 
 ## 노마드 코더
-https://www.youtube.com/playlist?list=PL7jH19IHhOLPp990qs8MbSsUlzKcTKuCf
+
 
 ### 조원
 
